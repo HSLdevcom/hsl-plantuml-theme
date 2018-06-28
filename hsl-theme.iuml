@@ -1,0 +1,56 @@
+@startuml
+
+skinparam shadowing false
+skinparam roundcorner 20
+skinparam BackgroundColor #ffffff
+skinparam ArrowColor #007ac9
+
+skinparam default {
+    FontColor #007ac9
+    FontName Nunito Bold
+    FontSize 12
+    MonospacedFontName Source Code Pro
+}
+
+skinparam Actor {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Node {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Rectangle {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Package {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Queue {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Database {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Participant {
+    BackgroundColor #007ac9
+    BorderColor #007ac9
+    FontColor #ffffff
+    FontStyle bold
+}
+
+skinparam Sequence {
+    LifeLineBorderColor #007ac9
+}
+
+@enduml
