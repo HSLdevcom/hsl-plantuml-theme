@@ -29,7 +29,7 @@ skinparam Interface {
 
 skinparam Usecase {
     BackgroundColor #ffffff
-    BorderColor #f092cd
+    BorderColor #007ac9
 }
 
 skinparam Rectangle {
