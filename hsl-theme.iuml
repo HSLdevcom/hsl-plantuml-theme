@@ -22,6 +22,16 @@ skinparam Node {
     BorderColor #007ac9
 }
 
+skinparam Interface {
+    BackgroundColor #ffffff
+    BorderColor #007ac9
+}
+
+skinparam Usecase {
+    BackgroundColor #ffffff
+    BorderColor #f092cd
+}
+
 skinparam Rectangle {
     BackgroundColor #ffffff
     BorderColor #007ac9
