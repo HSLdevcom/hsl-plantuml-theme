@@ -37,6 +37,12 @@ skinparam Rectangle {
     BorderColor #007ac9
 }
 
+skinparam Note {
+    BackgroundColor #dc0451
+    BorderColor #dc0451
+    FontColor #ffffff
+}
+
 skinparam Package {
     BackgroundColor #ffffff
     BorderColor #007ac9
