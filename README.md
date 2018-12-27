@@ -12,7 +12,7 @@ Use the theme from your diagram:
 ```
 @startuml
 
-!includeurl https://rawgit.com/HSLdevcom/hsl-plantuml-theme/master/hsl-theme.iuml
+!includeurl https://cdn.jsdelivr.net/gh/HSLdevcom/hsl-plantuml-theme/hsl-theme.iuml
 
 title My beautiful diagram
 database "Generic DB" as db
